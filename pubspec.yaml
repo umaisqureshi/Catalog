@@ -1,0 +1,72 @@
+name: category
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations: # Add this line
+    sdk: flutter
+  intl: ^0.17.0
+
+  cupertino_icons: ^1.0.0
+  flutter_bloc: ^3.2.0
+  provider: ^4.3.3
+  flutter_svg: any
+  alphabet_list_scroll_view: ^1.0.6
+  multi_image_picker:
+  carousel_pro: ^1.0.0
+  flutter_rating_bar:
+  alphabet_scroll_view:
+  lite_rolling_switch: ^0.1.1
+  custom_switch_button: ^0.5.0
+  flutter_swiper: ^1.1.6
+  carousel_slider: any
+  image_picker: ^0.8.0
+  font_awesome_flutter:
+  cloud_firestore:
+  firebase_auth:
+  google_sign_in:
+  shared_preferences:
+  syncfusion_flutter_charts: ^18.4.30
+  charts_flutter: ^0.10.0
+  firebase_messaging:
+  flutter_login_facebook: ^0.2.1
+  dio: ^4.0.0
+  http_parser: ^4.0.0
+  flutter_facebook_login: ^3.0.0
+  translator: ^0.1.7
+  connectivity: ^3.0.6
+  mvc_pattern: ^3.4.1
+  cached_network_image: any
+  path: ^1.8.0
+  path_provider: ^2.0.2
+  intl_phone_field: ^1.4.2
+  timer_count_down: ^2.2.0
+  money_converter: ^2.0.1
+  flutter_credit_card: ^2.0.0
+  flutter_local_notifications: ^8.1.1
+  toggle_switch: ^1.2.0
+  flutter_colorpicker: ^0.6.0
+  photo_view: ^0.13.0
+  page_transition: "^1.1.6"
+  http: any
+  badges: ^2.0.1
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  generate: true
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/gifs/

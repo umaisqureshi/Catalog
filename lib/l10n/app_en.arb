@@ -1,0 +1,284 @@
+{
+    "home": "Home",
+    "@home": {
+      "description": "Welcome this is your home"
+    },
+    "favouriteMessage": "Tap any heart next to the product to favourite. We will save them for you here!",
+    "@favouriteMessage": {
+      "description": "It's favourite message"
+    },
+    "alertsMessage": "Sales and orders alerts will be shown here",
+    "@alertsMessage": {
+      "description": "It's alerts message"
+    },
+    "discountMessage": "Up to 1 off",
+    "@discountMessage": {
+      "description": "It's alerts message"
+    },
+    "discountMessage": "Up to {discount} off",
+    "@discountMessage": {
+      "description": "A welcome message",
+        "placeholders": {
+          "discount": {
+            "type": "String"
+          }
+        }
+    },
+    "myUpload": "My Uploads",
+    "@myUpload": {
+      "description": "My Uploads"
+    },
+    "products": "Products",
+    "@products": {
+      "description": "Products"
+    },
+    "newButton": "+ New",
+    "sales": "{totalSales} Sales",
+    "@sales": {
+      "description": "A welcome message",
+        "placeholders": {
+          "totalSales": {
+              "type": "String"
+          }
+        }
+    },
+    "reports": "Reports",
+    "searchAndDiscover": "Search & Discover",
+    "searchForStores": "Search For Stores",
+    "searchForProducts": "Search For Products",
+    "overview": "Overview",
+    "revenue": "Revenue",
+    "itemsSold": "Items Sold",
+    "recentSales": "Recent Sales",
+    "daily": "Daily",
+    "weekly": "Weekly",
+    "monthly": "Monthly",
+    "netAmount": "Net Amount",
+    "noFavouriteYet": "No Favourite Yet",
+    "favourites": "Favourites",
+    "alerts": "Alerts",
+    "alertdetails": "Alerts Details",
+    "noAlertsYet": "No Alerts Yet",
+    "mainMenu": "Main Menu",
+    "@mainMenu": {
+      "description": "Main Menu"
+    },
+    "changePassword": "Change Password",
+    "@changePassword": {
+      "description": "Change Password"
+    },
+    "switchAccount": "Switch Account",
+    "@switchAccount": {
+      "description": "Switch Account"
+    },
+    "account": "Account",
+    "@account": {
+      "description": "Account"
+    },
+    "preferences": "Preferences",
+    "@preferences": {
+      "description": "Preferences"
+    },
+    "language": "Language",
+    "@language": {
+      "description": "Language"
+    },
+    "location": "Location",
+    "@location": {
+      "description": "Location"
+    },
+    "gender": "Gender",
+    "@gender": {
+     "gender": "Gender"
+    },
+    "currency": "Currency",
+    "@currency": {
+      "description": "Currency"
+    },
+    "storePreference": "Store Preference",
+    "support": "Support",
+    "faq": "FAQ",
+    "contactUs": "Contact Us",
+    "aboutUs": "About Us",
+    "logout": "Logout",
+    "login": "LOGIN",
+    "signUp": "SIGN UP",
+    "orConnectWith": "Or Connect With",
+    "phone": "Phone",
+    "useEmailInstead": "Use Email Instead",
+    "usePhoneInstead": "Use Phone Instead",
+    "enterEmail": "Enter Email",
+    "enterPassword": "Enter Password",
+    "continueButton": "Continue",
+    "email": "Email",
+    "password": "Password",
+    "dontHaveAnAccount": "Don't Have An Account?",
+    "username": "Username",
+    "enterUsername": "Enter Username",
+    "enterConfirmPassword": "Enter Confirm Password",
+    "confirmPassword": "Confirm Password",
+    "alreadyHaveAccount": "Already Have Account?",
+    "signIn": "LOGIN",
+    "enterPhoneNumber": "Enter Phone Number",
+    "whatRoleDoYouHave": "What Role Do You Have?",
+    "partner": "Partner",
+    "customer": "Customer",
+    "createMainStore": "Create Main Store",
+    "pickYourStoreLogo": "Pick Your Store's Logo",
+    "storeName": "Store Name",
+    "enterStoreName": "Enter Store Name",
+    "categories": "Categories",
+    "selectCategory": "Select Category",
+    "selectLocation": "Select Location",
+    "changeLocation": "Change Location",
+    "storeDescription": "Store Description",
+    "enterStoreDescription": "Enter Store Description",
+    "createStore": "Create Store",
+    "subStore": "Sub Store",
+    "switchToCustomer": "Switch To Customer",
+    "save": "Save",
+    "latestSales": "Latest Sales",
+    "latestDeals": "Latest Deals",
+    "discountMessage": "Up to {discount} off",
+    "forYou": "For You",
+    "addBrands": "Add Brands",
+    "notInterested": "Not Interested",
+    "recommended": "Recommended",
+    "deals": "Deals",
+    "viewAll": "View All",
+    "manage": "Manage",
+    "topCashBack": "Top Cash Back",
+    "cashBack": "Cash Back",
+    "brands": "Brands",
+    "changeYourPassword": "Change Your Password",
+    "newPassword": "New Password",
+    "enterNewPassword": "Enter New Password",
+    "oldPassword": "Old Password",
+    "enterOldPassword": "Enter Old Password",
+    "findYourFavouriteBrands": "Find Your Favourite Brands",
+    "findYourFavouriteStores": "Find Your Favourite Stores",
+    "manageMyBrands": "Manage My Brands",
+    "checkInternetMessage": "Check Your Internet Connection",
+    "changeLanguage": "Change Language",
+    "passwordFieldError": "The password field cannot be empty",
+    "passwordLengthError": "The password has to be at least 6 characters long",
+    "enterCodeReceived": "Enter Code Received",
+    "sentYouA6DigitCode": "We have sent you a 6-digit code",
+    "textFieldError" : "Please fix the errors in red before submitting.",
+    "passwordsDontMatch" : "Passwords do not match",
+    "manageMyStores": "Manage My Stores",
+    "changeCurrency": "Change Currency",
+    "filters": "Filters",
+    "addProduct": "Add Product",
+    "productName": "Product Name",
+    "enterProductName": "Enter Product Name",
+    "productDescription": "Product Description",
+    "enterProductDescription": "Enter Product Description",
+    "productPrice": "Price",
+    "productSize": "Size",
+    "productColor": "Color",
+    "productWeight": "Weight",
+    "productStock": "Stock",
+    "stockTextFieldPlaceholder": "No. of products",
+    "uploadImages": "Upload Images",
+    "clickHere": "Click Here",
+    "productSuccessfullyCreated": "Product Successfully Created",
+    "selectImageSource": "Select Image Source",
+    "camera": "Camera",
+    "gallery": "Gallery",
+    "editProduct": "Edit Product",
+    "removeProductQuestion": "Do you really want to remove the product?",
+    "yes": "Yes",
+    "no": "No",
+    "productSuccessfullyUpdated": "Product Successfully Updated",
+    "productDeletedSuccessfully": "Product Deleted Successfully",
+    "areYouSure": "Are You Sure?",
+    "exitApp": "Do you want to exit the App?",
+    "fillTheRequiredFields": "Fill the required fields",
+    "salesHeading": "Sales",
+    "shoppingPreferences": "Shopping Preferences",
+    "addFavBrands": "Add Your Favourite Brands",
+    "addFavStores": "Add Your Favourite Stores",
+    "enterPromoCodes": "Promo Codes",
+    "stores": "Stores",
+    "popularStores": "Popular Stores",
+    "allStores": "All Stores",
+    "highRatedProducts": "High Rated Products",
+    "chat": "Chat",
+    "productDetail": "Product Detail",
+    "leftInStock": "Left in stock : {left}",
+    "@leftInStock": {
+      "description": "Left In Stock",
+        "placeholders": {
+          "left": {
+            "type": "String"
+          }
+        }
+    },
+    "description": "Description",
+    "addToCart": "Add To Cart",
+    "findFavBrands": "Find your favorite brands",
+    "findFavStores": "Find your favourite stores",
+    "topStores": "TOP STORES",
+    "topBrands": "TOP BRANDS",
+    "yourFavStores": "Your Favourite Stores",
+    "cashBackDiscount": "{newDiscount} % Cash Back ",
+    "@cashBackDiscount": {
+      "description": "CashBack discounts",
+        "placeholders": {
+          "newDiscount": {
+            "type": "String"
+          }
+        }
+    },
+    "oldCashBackDiscount": "was {oldDiscount} %",
+    "@oldCashBackDiscount":{
+      "description" : "Old CashBack discounts",
+        "placeholders":{
+          "oldDiscount":{
+            "type": "String"
+          }
+        }
+    },
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "requiredField": "Required Field",
+    "cart": "Cart",
+    "discountCode": "Discount Code",
+    "enterDiscountCode": "Enter Discount Code",
+    "apply": "Apply",
+    "updateShoppingCart": "Update Shopping Cart",
+    "continueShopping": "Continue Shopping",
+    "emptyShoppingCart": "Empty Shopping Cart",
+    "priceDetails": "Price Details",
+    "subtotal": "Subtotal : ",
+    "shippingAndHandling": "Shipping And Handling",
+    "tax": "Tax",
+    "orderTotal": "Order Total",
+    "amountToBePaid": "Amount To Be Paid",
+    "proceed": "Proceed",
+    "removeItem": "Remove Item",
+    "qty": "Qty",
+    "pushNotifications": "Push Notifications",
+    "emailNotifications": "Email Notifications",
+    "alertsOnFav": "Alerts on Favourites",
+    "specialOffers": "Special Offers",
+    "backInStock": "Back In Stock",
+    "yourSalesAlerts": "Your Sales Alerts",
+    "yourFavSalesAlerts": "Your Favourite Sales Alerts",
+    "yourProductRecommendations": "Your Product Recommendations",
+    "limitedNews": "Limited News",
+    "uploadedProductMessage" : "Your Uploaded Products Will Show Here",
+    "noProductsYet": "No Products Yet",
+    "subStoreRequestNote": "Submit the request of store. Admin will \nprocess it in few working days and it will go live.",
+    "submitSubStoreRequest": "Submit Request",
+    "note": "Note :",
+    "editProfile": "Edit Profile",
+    "noConnection": "No Connection",
+    "noConnectionMessage": "Please Check Your Internet Connection\nand try again",
+    "storeLogoRequired": "Store's Logo is Required",
+    "requestSubmitted": "Request Submitted",
+    "typeMessage": "Type a message",
+    "bestDeals": "Best Deals",
+    "selectGender": "Select Gender"
+}
